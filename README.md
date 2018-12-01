@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Welcome to blog.codemartin.com
 
 
