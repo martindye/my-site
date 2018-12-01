@@ -6,4 +6,6 @@ categories: [blog, travel]
 tags: [hot, summer]
 ---
 
-Test
+## This is my first blog post
+
+Isn't it less than amazing? Answer: Yes.
