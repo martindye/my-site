@@ -10,22 +10,22 @@ rating: 4
 
 This is a selection pack of several different Toblerone bars, as shown below:
 
-<h4>1. Swiss white chocolate with honey and almond nougart</h4>
-Tastes creamy, not too sweet, dispite the honey nougart pieces.
+<h4>1. Swiss white chocolate with honey and almond nougat</h4>
+Tastes creamy, not too sweet, dispite the honey nougat pieces.
 The rich choclatey taste of cocoa butter is very noticeable, 
-and the overall balance of flavours (nougart, honey, cocoa butter, milk)
+and the overall balance of flavours (nougat, honey, cocoa butter, milk)
 means that you can taste each element without any one being overpowering.
 
-<h4>2. Swiss dark chocolate with honey and almond nougart</h4>
-This is for dark chocolate lovers. Bitter sweet as you'd expect from a dark chocolate, and not too bitter, as it's balanced with the sweet nougart pieces.
+<h4>2. Swiss dark chocolate with honey and almond nougat</h4>
+This is for dark chocolate lovers. Bitter sweet as you'd expect from a dark chocolate, and not too bitter, as it's balanced with the sweet nougat pieces.
 
-Even with small bits of nougart inside, it's a very rich intense dark chocolate flavour. More for dark cholocates lovers, obviously not so much for kids.
+Even with small bits of nougat inside, it's a very rich intense dark chocolate flavour. More for dark cholocates lovers, obviously not so much for kids.
 
 
-<h4>3. Swiss milk chocolate with honey and almond nougart <em>x2</em></h4>
-The classic Toblerone bar: bite into it and find those fab bits of chewy nougart. 
+<h4>3. Swiss milk chocolate with honey and almond nougat <em>x2</em></h4>
+The classic Toblerone bar: bite into it and find those fab bits of chewy nougat. 
 
-<h4>4. Swiss milk chocolate with raisins and honey and almond nougart</h4>
+<h4>4. Swiss milk chocolate with raisins and honey and almond nougat</h4>
 This is my personal favourite. The raisins add even more to the texture and the flavours work well together.
 
 <h4><em>Conclusion</em></h4>
