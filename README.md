@@ -12,10 +12,9 @@ We are very fussy, so if an item gets a high opinion, you can bet it's an excell
 Admittedly, everyone has different tastes, but if we like something then we're quite sure you will too.
 We hope you like our unique ways of describing things and that you can rely on this blog as a trusted source.
 
-TODO: Revise this statement:
-Note that we are Amazon Affiliates but we only run the site as enthusiasts.
+We hope you enjoy the reviews!<br />
 
-We hope you enjoy the reviews!
+Note: <em>As an Amazon Associate I earn from qualifying purchases.</em>
 </h5>
 
 {% for category in site.categories %}
