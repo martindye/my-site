@@ -1,6 +1,19 @@
 ---
 layout: default
+show_description: false
 ---
-<p>{{ page.date }} - Written by Martin Dye {{ page.author }}</p>
+<h2>{{ page.title }}</h2><br />
 
 {{ content }}
+
+{% include star-rating.html rating=page.rating %}
+
+<h6>Written by {{ page.author }} on {{ page.date  | date: "%-d %B %Y" }}</h6>
+<a href="/index.html">Back to Reviews Index</a>
+<br /><br />
+
+{% comment %}
+Blog post URL
+<a href="{% link _posts/2018-12-01-myfirstpost.md %}">Go Back Home</a>
+https://coderwall.com/p/iml9ka/star-ratings-in-css-utf8
+{% endcomment %}

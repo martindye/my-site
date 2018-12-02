@@ -1,5 +1,9 @@
-theme: jekyll-theme-tactile
-timezone: Europe/London
-title: Martin Dye
+theme: jekyll-theme-midnight
+title: blog.codemartin.com
 email: martindye@btinternet.com
-description: blog for chocolates, IT and perfume
+description: things to bring you joy
+repository: blog.codemartin.com/martindye
+timezone: Europe/London
+show_header: false
+ 
+ 

@@ -1,0 +1,38 @@
+{% assign expandedstars = include.rating | times:2 %}
+{% assign oddstar = expandedstars | modulo:2 %}
+
+{% assign half_star = false %}
+{% if oddstar == 1 %}
+{% assign half_star = true %}
+{% endif %}
+
+{% assign last_star = include.rating | round:0 %}
+{% assign star_full = '<span class="full">&#9733;</span>' %}
+{% assign star_half = '<span class="half">&#9733;</span>' %}
+{% assign star = '<span>&#9733;</span>' %}
+
+{% for i in (1..5) %}
+{% if i <= last_star %}
+
+{% if i == last_star and half_star %}
+{% assign stars = stars | append: star_half %}
+{% else %}
+{% assign stars = stars | append: star_full %}
+{% endif %}
+
+{% else %}
+
+{% assign stars = stars | append: star %}
+
+{% endif %}
+{% endfor %}
+
+{% if include.rating != null %}
+<p class="star-rating">{{ stars }} Rating: {{ include.rating }}</p>
+{% else %}
+<br /><br />
+{% endif %}
+{% comment %}
+CSS From: https://coderwall.com/p/iml9ka/star-ratings-in-css-utf8
+Rating code: https://keirwhitaker.com/blog/create-a-star-rating-system-in-liquid/
+{% endcomment %}
