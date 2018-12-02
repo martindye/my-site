@@ -19,8 +19,7 @@ means that you can taste each element without any one being overpowering.
 <h4>2. Swiss dark chocolate with honey and almond nougat</h4>
 This is for dark chocolate lovers. Bitter sweet as you'd expect from a dark chocolate, and not too bitter, as it's balanced with the sweet nougat pieces.
 
-Even with small bits of nougat inside, it's a very rich intense dark chocolate flavour. More for dark cholocates lovers, obviously not so much for kids.
-
+Even with small bits of nougat inside, it's a very rich intense dark chocolate flavour. More for dark chocolate lovers, obviously not so much for kids.
 
 <h4>3. Swiss milk chocolate with honey and almond nougat <em>x2</em></h4>
 The classic Toblerone bar: bite into it and find those fab bits of chewy nougat. 
