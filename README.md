@@ -10,7 +10,8 @@ show_description: true
 If we like an item, we're truthful about it and we're pleased to share our opinion.
 We are very fussy, so if an item gets a high opinion, you can bet it's an excellent product.
 Admittedly, everyone has different tastes, but if we like something then we're quite sure you will too.
-We hope you like our unique ways of describing things and that you can rely on this blog as a trusted source.
+We are enthusiasts who like to write and share opinions with others and we hope you like our unique ways 
+of describing things and that you can rely on this blog as a trusted source.
 
 We hope you enjoy the reviews!<br />
 

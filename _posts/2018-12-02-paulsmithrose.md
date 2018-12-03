@@ -8,10 +8,10 @@ rating: 4.0
 ---
 
 Paul Smith is a very nice fresh fragrance that doesn't last very long, 
-just a few hours but al least smells very good indeed for the time being.
+just a few hours but at least smells very good indeed for the time being.
 It's a lovely fragrance only minus is its staying power, not so long as other powdery perfumes.
 Usually fresh perfumes don't have the long staying power as the powdery ones as 
-[Roberto Cavalli]({{ site.baseurl }}{% post_url 2018-12-02-robertocavalli %}) or Christian dior.
+[Roberto Cavalli]({{ site.baseurl }}{% post_url 2018-12-02-robertocavalli %}) or Christian Dior.
 
 
 <h4><em>Conclusion</em></h4>
