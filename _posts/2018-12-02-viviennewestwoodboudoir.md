@@ -4,7 +4,7 @@ categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
 description: "Review"
-rating: 
+rating: 4
 ---
 
 A nice, refined, powdery smell, not long lasting on me, the scent itself is lovely.

@@ -39,7 +39,7 @@ unveil the mystery.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VVqDFR3xIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
-<h4>Conclusion</h4>
+<h4><em>Conclusion</em></h4>
 
 This is great value for money. Other models which have square shelves and a different architecture may dry more evenly, but
 they are way more expensive. So if you don't want to spend too much, and wish to join the army of secret food dehydrators,

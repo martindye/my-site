@@ -4,22 +4,35 @@ date:   2018-12-01 0314 +0000
 tags: [amazon echo]
 author: Martin Dye
 description: "Review"
+categories: [Electronics]
+rating: 5
 ---
 
+I was always a bit envious of people who had an Amazon Echo. It's quite neat to be able to talk to Siri on my iPhone,
+but when the cooker extractor fan is on and you're a few metres away, barking at your phone to set a timer whilst trying
+to fry some halloumi for a fixed time, it's not always so easy.
 
-Isn't it less than amazing? Answer: Yes. V3.
-Text goes here. Text goes here. Text goes here. Text goes here.
- Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. Text goes here. 
+The Amazon Echo on the other hand is designed to sit in the room and listen. I found it more communal, in that when a friend visited,
+he was able to ask Alexa to play a track we were talking about. When he tried asking a question on a previous occasion, Siri
+wouldn't even listen.
+
+The Amazon Echo uses far-field voice recognition, with no less than seven microphones, to hear you from all directions and
+eliminate background noises. I was amazed it could still hear me above the sound of frying chicken thighs, and pause the
+music!
+
+The sound produced from the device is great for the size; room filling and rich. The base is not as deep as a 
+[Sonos PLAY:5]({{ site.baseurl }}{% post_url 2018-12-01-sonosplay5 %}), but this device is
+smaller and intended for a different kind of use. That said, if you do have a speaker you already like, you can still use
+it with Alexa, using the <a href="https://amzn.to/2Rw6Blr">Echo Input</a>. 
+
+<h4><em>Conclusion</em></h4>
+
+For the price, this is an amazing bit of kit. If it was just a bluetooth speaker it would be a great purchase, but with
+all the additional technology this seems like a bargain.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B0749YXKYZ&asins=B0749YXKYZ&linkId=48a98ad288a01ade9dee630901224b3e&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
 </iframe>
 
 {% comment %}
-
-Link only
-
-https://www.amazon.co.uk/gp/product/B0749YXKYZ/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0749YXKYZ&linkCode=as2&tag=martindye21-21&linkId=be53ea06211a69d7300306028e62621e
-categories: [Electronics]
-
 
 {% endcomment %}
