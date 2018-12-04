@@ -2,7 +2,7 @@
 title:  "electriQ Food Dehydrator - with 6 Collapsible Shelves & 48hr timer"
 tags: [Food Dehydrator,Dehydrator]
 author: Martin Dye
-description: "Review"
+description: "electriQ Food Dehydrator - with 6 Collapsible Shelves & 48hr timer Review"
 categories: [Homeware]
 rating: 4
 ---

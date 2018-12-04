@@ -2,7 +2,7 @@
 title:  "Adjustable Drawer Organiser by Practical Comfort"
 tags: [draw organisaer, cutlery organiser, metal]
 author: Martin Dye
-description: "Review"
+description: "Adjustable Drawer Organiser by Practical Comfort Review"
 categories: [Homeware]
 rating: 5
 ---

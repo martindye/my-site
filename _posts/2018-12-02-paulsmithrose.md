@@ -3,7 +3,7 @@ title:  "Paul Smith Rose Eau de Parfum for Women - 100 ml"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Review"
+description: "Paul Smith Rose Eau de Parfum for Women - 100 ml Review"
 rating: 4.0
 ---
 

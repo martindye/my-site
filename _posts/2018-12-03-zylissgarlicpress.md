@@ -2,7 +2,7 @@
 title:  "Zyliss Susi 3 Garlic Press, Red, Stainless steel"
 tags: [garlic press,garlic crusher]
 author: Martin Dye
-description: "Review"
+description: "Zyliss Susi 3 Garlic Press, Red, Stainless steel Review"
 categories: [Homeware]
 rating: 4.5
 ---

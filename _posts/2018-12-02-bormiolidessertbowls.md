@@ -2,7 +2,7 @@
 title:  "Dessert Bowls by Bormioli Rocco Ypsilon 4pcs 37.5cl"
 tags: [amazon echo]
 author: Doina Fatu
-description: "Review"
+description: "Dessert Bowls by Bormioli Rocco Ypsilon 4pcs 37.5cl Review"
 categories: [Homeware]
 rating: 5
 ---

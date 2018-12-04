@@ -2,7 +2,7 @@
 title:  "KitchenCraft Master Class Professional Large Non Stick Carbon Steel Wok, 35.5 cm"
 tags: [wok, non-stick, induction]
 author: Martin Dye
-description: "Review"
+description: "KitchenCraft Master Class Professional Large Non Stick Carbon Steel Wok, 35.5 cm Review"
 categories: [Homeware]
 rating: 4
 ---

@@ -3,7 +3,7 @@ title:  "Amazon Echo (2nd Gen)"
 date:   2018-12-01 0314 +0000
 tags: [amazon echo]
 author: Martin Dye
-description: "Review"
+description: "Amazon Echo (2nd Gen) Review"
 categories: [Electronics]
 rating: 5
 ---

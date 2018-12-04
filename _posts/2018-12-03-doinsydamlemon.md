@@ -3,7 +3,7 @@ title:  "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 4 x 80g"
 categories: [Chocolates]
 tags: [chocolates, white, lemon]
 author: Martin Dye
-description: "Review"
+description: "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 4 x 80g Review"
 rating: 5
 ---
 
