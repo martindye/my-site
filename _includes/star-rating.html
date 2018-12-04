@@ -29,10 +29,83 @@
 
 {% if include.rating != null %}
 <p class="star-rating">{{ stars }} Rating: {{ include.rating }}</p>
+
+<!-- Review Star Rating In Google Search Results -->
+<script type='application/ld+json'>
+{
+"@context":"http://schema.org",
+"@type":"Review",
+"author": {
+"@type":"Person",
+"name":"{{page.author}}",
+"sameAs":"https://plus.google.com/u/0/110224931708475672740?tab=wX"
+},
+"url": "<data:blog.canonicalUrl/>",
+"datePublished":"{{page.date}}",
+"publisher": {
+"@type":"Organization",
+"name":"blog.codemartin.com",
+"sameAs":"https://blog.codemartin.com"
+},
+"description":"<data:{{page.description}}/>",
+"inLanguage":"en",
+"itemReviewed": {
+"@type":"Product",
+"name": "<data:{{page.title}}/>",
+"sameAs": "<data:https://blog.codemartin.com>",{% if page.thumbnailurl != null %}
+"image": "<data:{{page.thumbnailurl}}/>",{% endif %}
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "{{include.rating}}",
+"bestRating": "{{include.rating}}",
+"ratingCount": "1"
+}
+}
+}
+</script> 
+
 {% else %}
 <br /><br />
 {% endif %}
 {% comment %}
+Adjusted by: Martin Dye
 CSS From: https://coderwall.com/p/iml9ka/star-ratings-in-css-utf8
 Rating code: https://keirwhitaker.com/blog/create-a-star-rating-system-in-liquid/
+
+
+Star rating review template:
+
+<!-- Review Star Rating In Google Search Results -->
+<script type='application/ld+json'>
+{
+"@context":"http://schema.org",
+"@type":"Review",
+"author": {
+"@type":"Person",
+"name":"YOUR-NAME",
+"sameAs":"GOOGLE-PLUS-LINK"
+},
+"url": "<data:blog.canonicalUrl/>",
+"datePublished":"2016-03-13T20:00",
+"publisher": {
+"@type":"Organization",
+"name":"WEBSITE-NAME",
+"sameAs":"http://www.YOURWEBSITEURL.com/"
+},
+"description":"<data:blog.metaDescription/>",
+"inLanguage":"en",
+"itemReviewed": {
+"@type":"Product",
+"name": "<data:blog.pageName/>",
+"sameAs": "<data:blog.canonicalUrl/>",
+"image": "<data:blog.postImageThumbnailUrl/>",
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"bestRating": "5",
+"ratingCount": "2"
+}
+}
+}
+</script> 
 {% endcomment %}
