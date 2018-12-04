@@ -12,6 +12,9 @@ Really nice shape and design. They look fabulous when loaded even with desserts 
 
 I've used these dessert glasses every 2 days or so for home made trifle or mousse au chocolat. Easy to wash too.
 
+![Mousse au chocolat](/assets/mousseauchocolat.jpg)
+<h6>This mousse au chocolat was for two people to share or one greedy person. It's 2-3 times bigger than a Gü Chocolate Mousse.</h6>
+
 <h4><em>Conclusion</em></h4>
 
 It's a very good value for money as its a nice glass, plenty big enough.
