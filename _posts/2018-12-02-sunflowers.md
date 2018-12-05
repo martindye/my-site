@@ -1,9 +1,9 @@
 ---
-title:  "Sunflowers eau de toilette by Elisabeth Arden"
+title:  "Sunflowers eau de toilette by Elizabeth Arden"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Sunflowers eau de toilette by Elisabeth Arden Review"
+description: "Sunflowers eau de toilette by Elizabeth Arden Review"
 rating: 3.5
 ---
 
@@ -22,5 +22,4 @@ Everyday wear perfume (good to wear at work), summery flowery scent, good price 
 {% comment %}
 
 Link only
-
 {% endcomment %}
