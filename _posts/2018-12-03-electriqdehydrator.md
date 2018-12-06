@@ -36,7 +36,7 @@ the timer has reached the end of the dehydration period.
 <h4>Collapsible shelves - how to</h4>
 I didn't know how the shelves collapsed, or really what that meant before I bought this, so here's a video which should help
 unveil the mystery.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5VVqDFR3xIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1VU4wJaeELE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 <h4><em>Conclusion</em></h4>
