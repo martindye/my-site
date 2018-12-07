@@ -2,6 +2,7 @@
 permalink: index.html
 title: blog.codemartin.com
 show_description: true
+show_counter: true
 ---
 
 ## Welcome

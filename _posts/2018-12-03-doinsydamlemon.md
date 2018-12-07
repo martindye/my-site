@@ -16,7 +16,7 @@ feverishly clicked on the "Add to Basket" button.
 When I tried a piece, there was a lovely light lemon flavour, poppy seeds and another kind of tangy flavour, and it all
 tasted great together. The other tangy flavour was the <a href="https://en.wikipedia.org/wiki/Adansonia">Baobab</a>. It
 blends well with the lemon and I possibly would have missed it if I wasn't "listening out" for it with my taste buds.
-With the tangy flavours and the poppy seeds it isn't too sweet and you can taste the everything including the coacoa
+With the tangy flavours and the poppy seeds it isn't too sweet and you can taste everything including the coacoa
 butter.
 
 I bought four bars originally - I <em>was</em> going to give the wife two bars and have two for myself. I'm afraid the
