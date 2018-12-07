@@ -27,3 +27,7 @@ Note: <em>As an Amazon Associate I earn from qualifying purchases.</em>
     {% endfor %}
   </ul>
 {% endfor %}
+
+<div id="sfcm1kxuwmcfep3fjqwa52ppshsf47hhrxm"></div>
+<script type="text/javascript" src="https://counter5.wheredoyoucomefrom.ovh/private/counter.js?c=m1kxuwmcfep3fjqwa52ppshsf47hhrxm&down=async" async></script>
+<br><noscript><a href="https://www.freecounterstat.com" title="website counters"><img src="https://counter5.wheredoyoucomefrom.ovh/private/freecounterstat.php?c=m1kxuwmcfep3fjqwa52ppshsf47hhrxm" border="0" title="website counters" alt="website counters"></a></noscript>
