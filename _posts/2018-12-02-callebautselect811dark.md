@@ -13,10 +13,10 @@ rating: 4.5
 A few years ago, we previously sampled some apple slices in Calvados, dipped in milk chocolate.
 We have the apples and the equipment needed to re-create these.
 We used a <a href="https://en.wikipedia.org/wiki/Bain-marie" target="_new">Baine-marie</a> to melt the chocolate and a silicon spatula 
-(so it doesn't transfer flavour from previous cooking) to stir. We had previously prepared some dehydrated apple slices, 
-which were then rehydrated with Calvados, which we coated in the chocolate by dropping them in and mixing with the spatula. The
-slices were then put onto some grease proof paper and allowed to set in the fridge, covered with a bowl to stop the fridge
-smells from affecting the chocolate.
+(so it doesn't transfer flavour from previous cooking) to stir. We had previously prepared some apple slices, dehydrated with the
+[electriQ Dehydrator]({% post_url 2018-12-03-electriqdehydrator %}), which were then rehydrated with Calvados, which we coated in 
+the chocolate by dropping them in and mixing with the spatula. The slices were then put onto some grease proof paper and allowed 
+to set in the fridge, covered with a bowl to stop the fridge smells from affecting the chocolate.
 
 <h4>Cooking experiment - the result</h4>
 The result was surprisingly good! They set hard and shiny. The grease proof paper was textured and left a pattern underneath, so they even looked like they'd been bought from a shop.

@@ -9,7 +9,7 @@ rating: 5
 
 The time had come to tidy up my kitchen draw, which had been a mess for 4 years. A tidy kitchen draw reflects a tidy mind.
 Well sorry, that's not true, but it does mean I can quickly grab the item of cutlery I need because it's always in the same
-place. This system is far superior to finding a wooden tray which wastes space around the edge. After measuring my draw, I
+place. This system is far superior to using a wooden tray which wastes space around the edge. After measuring my draw, I
 selected the size to fit the draw within the tolerances specified by Practical Comfort.
 
 When I installed it, it fitted my drawer perfectly. I cleaned and dried the drawer beforehand and the supplied
