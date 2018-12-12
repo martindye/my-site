@@ -17,9 +17,11 @@ be ejected by pushing the little red button. The tool has an array of plastic pi
 holes (rotate 180 degrees first) and some spikes on the other end for scooping out the garlic skin. Yes, you can use your
 nails, but with this tool your fingers won't be smelling of garlic for the few hours.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KCwkkW80U8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h4><em>Conclusion</em></h4>
 
-I'm so impressed with this that the I think inventor's face should be featured on the back of the next £5 note.
+I'm so impressed with this that I think inventor's face should be featured on the back of the next £5 note.
 Seriously though, it's really the only garlic press you need. I also think it produces a better quality crushed garlic
 compared to smashing with the side of the knife and / or finely chopping it.
 
