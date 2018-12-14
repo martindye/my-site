@@ -1,5 +1,5 @@
 ---
-title:  "Callebaut Select 811 Dark Chocolate Callets 1 kg"
+title:  "Callebaut Chocolate Select 811, Dark, Callets 1 kg"
 categories: [Groceries]
 tags: [chocolate food]
 author: Doina Fatu & Martin Dye
