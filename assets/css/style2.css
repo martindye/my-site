@@ -303,3 +303,6 @@ section .title .credits.right { float: right; }
     overflow: hidden;
     text-shadow: 0 0 2px rgba(0,0,0,0.7);
 }
+
+h3 a { color: #b6b6b6; !important }
+

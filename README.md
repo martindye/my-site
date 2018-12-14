@@ -5,26 +5,29 @@ show_description: true
 show_counter: true
 ---
 
-## Welcome
-
-<h5>
-If we like an item, we're truthful about it and we're pleased to share our opinion.
-We are very fussy, so if an item gets a high opinion, you can bet it's an excellent product.
-Admittedly, everyone has different tastes, but if we like something then we're quite sure you will too.
-We are enthusiasts who like to write and share opinions with others and we hope you like our unique ways 
-of describing things and that you can rely on this blog as a trusted source. We only review things we like
-(or love) and you won't find anyting we don't like on this site.
-
-We hope you enjoy the reviews!<br />
-
-Note: <em>As an Amazon Associate I earn from qualifying purchases.</em>
-</h5>
+{% include welcometext.html %}
 
 {% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
+
+{% assign findcat = category[0] %}
+{% assign findcat = findcat | append: '.md' %}
+{% assign hascatmenu = false %}
+
+{% for sitepage in site.pages %}
+    {% if sitepage.path == findcat %}
+	{% assign hascatmenu = true %}
+    {% endif %}
+{% endfor %}
+
+{% if hascatmenu %}
+<h3><a href="/{{ category[0] }}.html">{{ category[0] }}</a></h3>
+{% else %}
+ <h3>{{ category[0] }}</h3>
+{% endif %}
   <ul>
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
+

@@ -9,5 +9,5 @@ show_description: false
 {% include star-rating.html rating=page.rating %}
 
 <h6>Written by {{ page.author }} on {{ page.date  | date: "%-d %B %Y" }}</h6>
-<a href="/index.html">Back to Reviews Index</a>
+{% include backtoreviews.html %}
 <br /><br />
