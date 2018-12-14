@@ -1,5 +1,5 @@
 ---
-title: perfumes - paul smith elisabeth arden roberto cavali paul smith rose vivienne westwood
+title: perfumes - paul smith rose elizabeth arden roberto cavalli vivienne westwood boudoir
 show_description: true
 show_counter: false
 singlecat: Perfume
