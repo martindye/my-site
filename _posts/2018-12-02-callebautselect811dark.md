@@ -3,7 +3,7 @@ title:  "Callebaut Chocolate Select 811, Dark, Callets 1 kg"
 categories: [Groceries]
 tags: [chocolate food]
 author: Doina Fatu & Martin Dye
-description: "Callebaut Select 811 Dark Chocolate Callets 1 kg Review"
+description: "Callebaut Select 811 Dark Chocolate Callets 1 kg Review, how to make chocolates"
 rating: 4.5
 ---
 
