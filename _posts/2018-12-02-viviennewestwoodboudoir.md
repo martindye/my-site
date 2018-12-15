@@ -1,9 +1,9 @@
 ---
-title:  "Vivienne Westwood Boudoir EDP Spray 50 ml"
+title:  "Vivienne Westwood Boudoir Eau De Parfum EDP Spray 50 ml perfume"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Vivienne Westwood Boudoir EDP Spray 50 ml Review"
+description: "Vivienne Westwood Boudoir EDP Spray 50 ml Review perfume"
 rating: 4
 ---
 

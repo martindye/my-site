@@ -6,5 +6,7 @@ repository: blog.codemartin.com/martindye
 timezone: Europe/London
 show_header: false
 url: "https://blog.codemartin.com" # the base hostname & protocol for site
+ 
 plugins:
   - jekyll-sitemap
+  

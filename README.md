@@ -1,6 +1,6 @@
 ---
 permalink: index.html
-title: blog.codemartin.com
+title: amazon products blog
 show_description: true
 show_counter: true
 ---
