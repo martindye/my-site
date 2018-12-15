@@ -21,6 +21,8 @@ nails, but with this tool your fingers won't be smelling of garlic for the few h
 
 <h4><em>Conclusion</em></h4>
 
+I would say that you do need to use some force with this one, especially if you are crushing two cloves of garlic
+at once. If you can't squeeze firmly enough, a press with longer handles may be more effective.
 I'm so impressed with this that I think inventor's face should be featured on the back of the next £5 note.
 Seriously though, it's really the only garlic press you need. I also think it produces a better quality crushed garlic
 compared to smashing with the side of the knife and / or finely chopping it.

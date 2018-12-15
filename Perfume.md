@@ -4,8 +4,14 @@ show_description: true
 show_counter: false
 singlecat: Perfume
 ---
+## Welcome
+<h5>
 
-{% include welcometext.html %}
+Please click on a topic to see the review. You can purchase the item by clicking the <em>Shop Now</em> button.
+<br />
+{% include affiliateinfo.html %}
+
+</h5>
 
 {% include singlecatmenu.html singlecat=page.singlecat %}
 
