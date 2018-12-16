@@ -5,7 +5,12 @@ show_description: true
 show_counter: true
 ---
 
+## Welcome
+
+<h5>
 {% include welcometext.html %}
+{% include affiliateinfo.html %}
+</h5>
 
 {% for category in site.categories %}
 
