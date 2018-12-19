@@ -1,5 +1,5 @@
 ---
-title:  "Paul Smith Rose Eau de Parfum for Women - 100 ml"
+title:  "Paul Smith Rose Perfume Eau de Parfum for Women - 100 ml Review"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu

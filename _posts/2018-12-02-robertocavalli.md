@@ -1,5 +1,5 @@
 ---
-title:  "Roberto Cavalli for Women Eau de Parfum - 50 ml"
+title:  "Roberto Cavalli Perfume for Women Eau de Parfum - 50 ml"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu

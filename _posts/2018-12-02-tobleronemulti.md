@@ -1,5 +1,5 @@
 ---
-title:  "Toblerone Bundle Large Bars, 500g"
+title:  "Original Toblerone Bundle Large Bars, 500g"
 date:   2018-12-01 0314 +0000
 categories: [Chocolates]
 tags: [chocolate food]
