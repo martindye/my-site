@@ -1,10 +1,10 @@
 ---
-title: perfumes - paul smith rose elizabeth arden roberto cavalli vivienne westwood boudoir edt scent
+title: Perfume Shop - paul smith rose elizabeth arden roberto cavalli vivienne westwood boudoir edt scent
 show_description: true
 show_counter: false
 singlecat: Perfume
 ---
-## Perfume Shop - Welcome
+## Perfumes - Welcome
 <h5>
 
 Please click on a topic to see the review. You can purchase the item by clicking the <em>Shop Now</em> button.
