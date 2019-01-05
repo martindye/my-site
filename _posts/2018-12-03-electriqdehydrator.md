@@ -45,7 +45,7 @@ This is great value for money. Other models which have square shelves and a diff
 they are way more expensive. So if you don't want to spend too much, and wish to join the army of secret food dehydrators,
 then this is an excellent choice for you!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B00M31GD8C&asins=B00M31GD8C&linkId=c60d0b0e0065f547084c692495c745cb&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B00M31GD8C&asins=B00M31GD8C&linkId=c60d0b0e0065f547084c692495c745cb&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
 </iframe>
 
 {% comment %}

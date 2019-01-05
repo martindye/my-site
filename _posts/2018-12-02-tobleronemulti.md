@@ -31,7 +31,7 @@ This is my personal favourite. The raisins add even more to the texture and the 
 
 Still as good as it ever was, and with the variety, this is a great choccy package. Happy Toblerating!
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B07GCJ1VCT&asins=B07GCJ1VCT&linkId=89ac4d8edfb559532f72bfd456323016&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B07GCJ1VCT&asins=B07GCJ1VCT&linkId=89ac4d8edfb559532f72bfd456323016&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
 </iframe>
 
 {% comment %}

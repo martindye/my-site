@@ -27,7 +27,7 @@ I'm so impressed with this that I think inventor's face should be featured on th
 Seriously though, it's really the only garlic press you need. I also think it produces a better quality crushed garlic
 compared to smashing with the side of the knife and / or finely chopping it.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B006MST90G&asins=B006MST90G&linkId=2302db6cd6a6b895fec5b1f61d42af01&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B006MST90G&asins=B006MST90G&linkId=2302db6cd6a6b895fec5b1f61d42af01&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
 </iframe>
 	
 {% comment %}

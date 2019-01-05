@@ -36,7 +36,7 @@ Needs resting in a fridge for a couple of hours, one night its perfect.
 Callebaut callets are good, rich fruity chocolate, its melting easily and can be transformed into chocolate bonbons without tempering, looks shiny when set.<br />
 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B01DDG8L4Y&asins=B01DDG8L4Y&linkId=9900de7c31b67c9e8122d91980167a6f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B01DDG8L4Y&asins=B01DDG8L4Y&linkId=9900de7c31b67c9e8122d91980167a6f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
 </iframe>
 
 {% comment %}

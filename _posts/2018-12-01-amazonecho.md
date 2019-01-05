@@ -7,7 +7,6 @@ description: "Amazon Echo (2nd Gen) Review"
 categories: [Electronics]
 rating: 5
 ---
-
 I was always a bit envious of people who had an Amazon Echo. It's quite neat to be able to talk to Siri on my iPhone,
 but when the cooker extractor fan is on and you're a few metres away, barking at your phone to set a timer whilst trying
 to fry some halloumi for a fixed time, it's not always so easy.
@@ -23,14 +22,14 @@ music!
 The sound produced from the device is great for the size; room filling and rich. The base is not as deep as a 
 [Sonos PLAY:5]({{ site.baseurl }}{% post_url 2018-12-01-sonosplay5 %}), but this device is
 smaller and intended for a different kind of use. That said, if you do have a speaker you already like, you can still use
-it with Alexa, using the <a href="https://amzn.to/2Rw6Blr">Echo Input</a>. 
+it with Alexa, using the <a href="https://www.amazon.co.uk/Echo-Input-White-audio-input-Bluetooth/dp/B07C7MSKPD/ref=as_li_ss_tl?ie=UTF8&qid=1543854897&sr=8-2&keywords=amazon+input&linkCode=sl1&tag={{site.affid}}&linkId=58cf16039033e7f502731ac81efedc04&language=en_GB">Echo Input</a>. 
 
 <h4><em>Conclusion</em></h4>
 
 For the price, this is an amazing bit of kit. If it was just a bluetooth speaker it would be a great purchase, but with
 all the additional technology this seems like a bargain.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B0749YXKYZ&asins=B0749YXKYZ&linkId=48a98ad288a01ade9dee630901224b3e&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B0749YXKYZ&asins=B0749YXKYZ&linkId=48a98ad288a01ade9dee630901224b3e&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
 </iframe>
 
 {% comment %}

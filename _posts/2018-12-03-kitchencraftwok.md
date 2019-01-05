@@ -19,7 +19,7 @@ It's thicker (2mm) than the last wok I had, so heat dissipation is a bit better.
 guage steel wok, or with industrial diamonds reinforcing the non-stick coating, but this does the job well and it hasn't
 let me down so far (after 10 uses so far).
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=martindye21-21&marketplace=amazon&region=GB&placement=B004VQXNJY&asins=B004VQXNJY&linkId=b134a69523026555945309291d627388&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B004VQXNJY&asins=B004VQXNJY&linkId=b134a69523026555945309291d627388&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
 </iframe>
 	
 {% comment %}
