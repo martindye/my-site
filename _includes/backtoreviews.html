@@ -1,1 +1,14 @@
-<a href="/index.html">Back to Reviews Index</a>
+{% assign catpage = page.categories[0] %}
+{% assign catpage = catpage | append: '.md' %}
+{% assign hascatmenu = false %}
+
+{% for sitepage in site.pages %}
+    {% if sitepage.path == catpage && catpage != '' %}
+	{% assign hascatmenu = true %}
+    {% endif %}
+{% endfor %}
+
+{% if catpage != page.name and page.singlecat != '' and hascatmenu %}
+<a href="/index.html">Reviews Index</a> | <a href="/{{ page.categories }}.html">{{ page.categories }} Index</a>
+{% else %}
+<a href="/index.html">Back to Reviews Index</a>{% endif %}

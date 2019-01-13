@@ -1,33 +1,13 @@
----
-permalink: index.html
-title: amazon products blog
-show_description: true
-show_counter: true
----
+<h1>blog.codemartin.com</h1>
+Welcome, feel free to use any of the Jekyll code in this blog.
+There's a star rating system with half stars and also a category menu system, which
+might be of some use.
 
-{% include welcometext.html %}
+If you like what you see, or manage to use any of the content, or have any comments,
+you can mail me at: mailto: martindye@btinternet.com.
 
-{% for category in site.categories %}
+If you're from the UK, you could even visit https://blog.codemartin.com/amazonsearch/ and 
+go about making a normal Amazon purchase; I might get a bit of commission, and would be most
+grateful. 
 
-{% assign findcat = category[0] %}
-{% assign findcat = findcat | append: '.md' %}
-{% assign hascatmenu = false %}
-
-{% for sitepage in site.pages %}
-    {% if sitepage.path == findcat %}
-	{% assign hascatmenu = true %}
-    {% endif %}
-{% endfor %}
-
-{% if hascatmenu %}
-<h3><a href="/{{ category[0] }}.html">{{ category[0] }}</a></h3>
-{% else %}
- <h3>{{ category[0] }}</h3>
-{% endif %}
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
+Martin J Dye
