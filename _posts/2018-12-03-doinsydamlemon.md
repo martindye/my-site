@@ -3,7 +3,7 @@ title:  "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 4 x 80g"
 categories: [Chocolates]
 tags: [chocolates, white, lemon]
 author: Martin Dye
-description: "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 4 x 80g Review"
+description: "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 2 x 80g Review"
 rating: 5
 ---
 
@@ -27,10 +27,9 @@ distribution of chocolate rations was <<ahem>> slightly in my favour and I might
 For white chocolate, this is the one of the tastiest I've had. It's not cheap, but it deserves the gourmet stamp,
 and it's totally worth it.
 
-The link below is for the 4 x 80g bars and this offers the best value.
+The link below is for the 2 x 80g bars and this offers the best value.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id={{site.affid}}&marketplace=amazon&region=GB&placement=B07378D2YV&asins=B07378D2YV&linkId=7705ef84874f8e9505b6cb19cf174d18&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=f2f2f2">
-</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{site.affid}}&language=en_GB&marketplace=amazon&region=GB&placement=B017IW0AQQ&asins=B017IW0AQQ&linkId=17f4cb012212c380517a64c3371413f2&show_border=true&link_opens_in_new_window=true"></iframe>
 
 {% comment %}
 
