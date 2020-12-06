@@ -45,11 +45,11 @@
         "name":"blog.codemartin.com",
         "sameAs":"https://blog.codemartin.com"
     },
-    "description": "{{page.description}}",
     "inLanguage":"en",
     "itemReviewed": {
         "@type":"Product",
         "name": "{{page.title}}",{% if page.brand != null %}
+        "description": "{{page.description}}",
         "brand": "{{page.brand}}",{% endif %}{% if page.thumbnailurl != null %}
         "image": "{{page.thumbnailurl}}",{% endif %}
         "aggregateRating": {
