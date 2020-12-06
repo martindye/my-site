@@ -1,10 +1,15 @@
 ---
 title:  "Callebaut Chocolate Select 811, Dark, Callets 1 kg"
+brand: "Callebaut"
+thubnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DDG8L4Y&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Groceries]
 tags: [chocolate food]
 author: Doina Fatu & Martin Dye
-description: "Callebaut Select 811 Dark Chocolate Callets 1 kg Review, how to make chocolates"
+description: "Callebaut callets are good, rich fruity chocolate, its melting easily and can be transformed into chocolate bonbons without tempering, looks shiny when set."
 rating: 4.5
+price: "13.90"
+sku: "Not Available"
+mpn: "BO-340750"
 ---
 
 <h4>Chocolate callets for cooking</h4>
