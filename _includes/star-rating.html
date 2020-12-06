@@ -50,8 +50,9 @@
         "@type":"Product",
         "name": "{{page.title}}",{% if page.brand != null %}
         "description": "{{page.description}}",
-        "sku": "{{page.sku}}",
-        "isbn": "{{page.isbn}}",
+        "sku": "{{page.sku}}",{% if page.isbn != null %}
+        "isbn": "{{page.isbn}}",{% endif %}{% if page.mpn != null %}
+        "mpn": "{{page.mpn}}",{% endif %}
         "brand": "{{page.brand}}",{% endif %}{% if page.thumbnailurl != null %}
         "image": "{{page.thumbnailurl}}",{% endif %}
         "review" : {
