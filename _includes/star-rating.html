@@ -37,9 +37,7 @@
 "@type":"Review",
 "author": {
 "@type":"Person",
-"name":"{{page.author}}",
-"sameAs":"https://plus.google.com/u/0/110224931708475672740?tab=wX"
-},
+"name":"{{page.author}}"},
 "url": "<data:blog.canonicalUrl/>",
 "datePublished":"{{page.date}}",
 "publisher": {
@@ -61,10 +59,11 @@
 }
 }
 }
-</script> 
+</script>
 
 {% else %}
-<br /><br />
+<br />
+<br />
 {% endif %}
 {% comment %}
 Adjusted by: Martin Dye
@@ -76,35 +75,35 @@ Star rating review template:
 
 <!-- Review Star Rating In Google Search Results -->
 <script type='application/ld+json'>
-{
-"@context":"http://schema.org",
-"@type":"Review",
-"author": {
-"@type":"Person",
-"name":"YOUR-NAME",
-"sameAs":"GOOGLE-PLUS-LINK"
-},
-"url": "<data:blog.canonicalUrl/>",
-"datePublished":"2016-03-13T20:00",
-"publisher": {
-"@type":"Organization",
-"name":"WEBSITE-NAME",
-"sameAs":"http://www.YOURWEBSITEURL.com/"
-},
-"description":"<data:blog.metaDescription/>",
-"inLanguage":"en",
-"itemReviewed": {
-"@type":"Product",
-"name": "<data:blog.pageName/>",
-"sameAs": "<data:blog.canonicalUrl/>",
-"image": "<data:blog.postImageThumbnailUrl/>",
-"aggregateRating": {
-"@type": "AggregateRating",
-"ratingValue": "4",
-"bestRating": "5",
-"ratingCount": "2"
-}
-}
-}
-</script> 
+    {
+    "@context":"http://schema.org",
+    "@type":"Review",
+    "author": {
+    "@type":"Person",
+    "name":"YOUR-NAME",
+    "sameAs":"GOOGLE-PLUS-LINK"
+    },
+    "url": "<data:blog.canonicalUrl/>",
+    "datePublished":"2016-03-13T20:00",
+    "publisher": {
+    "@type":"Organization",
+    "name":"WEBSITE-NAME",
+    "sameAs":"http://www.YOURWEBSITEURL.com/"
+    },
+    "description":"<data:blog.metaDescription/>",
+    "inLanguage":"en",
+    "itemReviewed": {
+    "@type":"Product",
+    "name": "<data:blog.pageName/>",
+    "sameAs": "<data:blog.canonicalUrl/>",
+    "image": "<data:blog.postImageThumbnailUrl/>",
+    "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "ratingCount": "2"
+    }
+    }
+    }
+</script>
 {% endcomment %}
