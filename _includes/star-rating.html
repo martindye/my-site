@@ -50,10 +50,9 @@
     "inLanguage":"en",
     "itemReviewed": {
         "@type":"Product",
-        "name": "<data:{{page.title}}/>",{% if page.brand != null %}
-        "brand": "<data:{{page.brand}}/>",{% endif %}
-        "sameAs": "<data:https://blog.codemartin.com>",{% if page.thumbnailurl != null %}
-        "image": "<data:{{page.thumbnailurl}}/>",{% endif %}
+        "name": "{{page.title}}",{% if page.brand != null %}
+        "brand": "{{page.brand}}",{% endif %}{% if page.thumbnailurl != null %}
+        "image": "{{page.thumbnailurl}}",{% endif %}
         "aggregateRating": {
             "@type": "AggregateRating",
             "reviewCount": "1",
