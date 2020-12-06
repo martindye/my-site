@@ -1,10 +1,15 @@
 ---
 title:  "Bormioli Rocco Dessert Bowls Ypsilon 4pcs 37.5cl"
+brand: "Bormioli Rocco"
+thumbnailurl: ![Mousse au chocolat](/assets/mousseauchocolat.jpg)
 tags: [amazon echo]
 author: Doina Fatu
-description: "Dessert Bowls by Bormioli Rocco Ypsilon 4pcs 37.5cl Review"
+description: "Really nice shape and design. They look fabulous when loaded even with desserts that don't look so elegant when seated on a plate, such as apple crumble."
 categories: [Homeware]
 rating: 5
+price: "18.99"
+sku: "Not Available"
+mpn: "BO-340750"
 ---
 
 

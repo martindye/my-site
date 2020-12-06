@@ -1,10 +1,15 @@
 ---
 title:  "electriQ Food Dehydrator - with 6 Collapsible Shelves & 48hr timer"
+brand: "electriQ"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00M31GD8C&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 tags: [Food Dehydrator,Dehydrator]
 author: Martin Dye
-description: "electriQ Food Dehydrator - with 6 Collapsible Shelves & 48hr timer Review"
+description: "The result was some really nice dried apple slices, homemade and from my garden, so I know they're organic! The dehydration process also reduced the acidic component of the apples (they are a cooking apple, but only slightly sour when they're fully ripe) which I considered to be a bonus."
 categories: [Homeware]
 rating: 4
+price: "45.97"
+sku: "PL5G2AU1BLK"
+mpn: "EDFD04"
 ---
 
 With some things, you only know of their existance when you have an idea and search for them on the internet!
