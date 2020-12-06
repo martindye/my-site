@@ -50,13 +50,14 @@
     "inLanguage":"en",
     "itemReviewed": {
         "@type":"Product",
-        "name": "{{page.title}}"{% if page.brand != null %},
-        "brand": "{{page.brand}}"{% endif %}{% if page.thumbnailurl != null %},
-        "image": "{{page.thumbnailurl}}"{% endif %}
-    },
-    "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "{{include.rating}}"
+        "name": "{{page.title}}",{% if page.brand != null %}
+        "brand": "{{page.brand}}",{% endif %}{% if page.thumbnailurl != null %}
+        "image": "{{page.thumbnailurl}}",{% endif %}
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": "1",
+            "ratingValue": "{{include.rating}}"
+        }
     }
 }
 </script>
