@@ -1,10 +1,15 @@
 ---
 title:  "Green Tea Lotus by Elizabeth Arden - EDT 100ml"
+brand: "Elizabeth Arden"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0028VM7CI&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Green Tea Lotus by Elizabeth Arden EDT 100ml"
+description: "Green Tea by Arden is an affordable everyday perfume with a clean, citrucy smell and it's worth it as you can reapply, the bottle is big enough. Much better choice than other perfumes or eau de toilette that you can't wear as they are sickly sweet or they have a heavy weird scent."
 rating: 4
+price: "19.01"
+sku: "Not Available"
+mpn: "I0033651"
 ---
 
 The perfume still has the same nice clean fresh smell, I was pleased to discover they didn't change that

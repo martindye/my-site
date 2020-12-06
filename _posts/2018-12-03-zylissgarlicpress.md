@@ -1,10 +1,15 @@
 ---
 title:  "Zyliss Susi 3 Garlic Press, Red, Stainless steel"
+brand: "Zyliss"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006MST90G&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 tags: [garlic press,garlic crusher]
 author: Martin Dye
-description: "Zyliss Susi 3 Garlic Press, Red, Stainless steel Review"
+description: "I would say that you do need to use some force with this one, especially if you are crushing two cloves of garlic at once. If you can't squeeze firmly enough, a press with longer handles may be more effective."
 categories: [Homeware]
 rating: 4.5
+price: "15.49"
+sku: "Not Available"
+mpn: "E12150"
 ---
 
 This is another fantastic bit of kitchen kit that saves me time. There's no need to peel the garlic (in fact, you'll find
