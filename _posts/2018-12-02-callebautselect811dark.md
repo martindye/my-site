@@ -9,7 +9,7 @@ description: "Callebaut callets are good, rich fruity chocolate, its melting eas
 rating: 4.5
 price: "13.90"
 sku: "Not Available"
-mpn: "BO-340750"
+mpn: "Not Available"
 ---
 
 <h4>Chocolate callets for cooking</h4>
