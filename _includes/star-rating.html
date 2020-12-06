@@ -33,31 +33,33 @@
 <!-- Review Star Rating In Google Search Results -->
 <script type='application/ld+json'>
 {
-"@context":"http://schema.org",
-"@type":"Review",
-"author": {
-"@type":"Person",
-"name":"{{page.author}}"},
-"url": "<data:blog.canonicalUrl/>",
-"datePublished":"{{page.date}}",
-"publisher": {
-"@type":"Organization",
-"name":"blog.codemartin.com",
-"sameAs":"https://blog.codemartin.com"
-},
-"description":"<data:{{page.description}}/>",
-"inLanguage":"en",
-"itemReviewed": {
-"@type":"Product",
-"name": "<data:{{page.title}}/>",
-"sameAs": "<data:https://blog.codemartin.com>",{% if page.thumbnailurl != null %}
-"image": "<data:{{page.thumbnailurl}}/>",{% endif %}
-"aggregateRating": {
-"@type": "AggregateRating",
-"reviewCount": "1",
-"ratingValue": "{{include.rating}}"
-}
-}
+    "@context":"http://schema.org",
+    "@type":"Review",
+    "author": {
+        "@type":"Person",
+        "name":"{{page.author}}"
+    },
+    "url": "<data:blog.canonicalUrl/>",
+    "datePublished":"{{page.date}}",
+    "publisher": {
+        "@type":"Organization",
+        "name":"blog.codemartin.com",
+        "sameAs":"https://blog.codemartin.com"
+    },
+    "description":"<data:{{page.description}}/>",
+    "inLanguage":"en",
+    "itemReviewed": {
+        "@type":"Product",
+        "name": "<data:{{page.title}}/>",{% if page.brand != null %}
+        "brand": "<data:{{page.brand}}/>",{% endif %}
+        "sameAs": "<data:https://blog.codemartin.com>",{% if page.thumbnailurl != null %}
+        "image": "<data:{{page.thumbnailurl}}/>",{% endif %}
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": "1",
+            "ratingValue": "{{include.rating}}"
+        }
+    }
 }
 </script>
 
