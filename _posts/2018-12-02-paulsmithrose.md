@@ -5,8 +5,10 @@ thumbnailurl: https://m.media-amazon.com/images/I/41H+HtU-tpL._SL160_.jpg
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Paul Smith Rose Eau de Parfum for Women - 100 ml Review"
-review: Paul Smith is a very nice fresh fragrance that doesn't last very long, just a few hours but at least smells very good indeed for the time being.
+description: "Paul Smith is a very nice fresh fragrance that doesn't last very long, just a few hours but at least smells very good indeed for the time being.""
+price: 20.70
+sku: "3386460003902"
+isbn: "0885177285449"
 rating: 4.0
 ---
 
