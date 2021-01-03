@@ -1,10 +1,15 @@
 ---
 title:  "Gucci Rush - 50 ml Eau de Toilette"
+brand: "Gucci"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0009OAIHW&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
 description: "Gucci Rush - 50 ml Eau de Toilette - Review"
 rating: 4
+price: "40.93"
+sku: "Not Available"
+mpn: "118268"
 ---
 
 Gucci rush is a very aromatic, distinctive, unique smell. Strong scent, you need a few drops to cheer you up.
