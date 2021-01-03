@@ -1,10 +1,15 @@
 ---
 title:  "Roberto Cavalli Perfume for Women Eau de Parfum - 50 ml"
+brand: "Roberto Cavalli"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006MPZPVQ&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
 description: "Roberto Cavalli for Women Eau de Parfum - 50 ml Review"
 rating: 5
+price: "37.30"
+sku: "Not Available"
+mpn: "10000378"
 ---
 
 One of my favourite frangrances during time and tried a few already as im over 40.
