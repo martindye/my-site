@@ -1,10 +1,15 @@
 ---
 title:  "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 4 x 80g"
+brand: "Doisy & Dam"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017IW0AQQ&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Chocolates]
 tags: [chocolates, white, lemon]
 author: Martin Dye
 description: "Poppy Seed & Baobab White Chocolate by Doisy & Dam Lemon - 2 x 80g Review"
 rating: 5
+price: "15.94"
+sku: "PACK2-OC29525701"
+isbn: "Not Available"
 ---
 
 I bought this when I was scouring the internet for the best white chocolate with the most cocoa butter. I've tried

@@ -1,11 +1,16 @@
 ---
 title:  "Amazon Echo (2nd Gen)"
+brand: "Amazon"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0749YXKYZ&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 date:   2018-12-01 0314 +0000
 tags: [amazon echo]
 author: Martin Dye
 description: "Amazon Echo (2nd Gen) Review"
 categories: [Electronics]
 rating: 5
+price: "0.0"
+sku: "Not Available"
+isbn: "Not Available"
 ---
 I was always a bit envious of people who had an Amazon Echo. It's quite neat to be able to talk to Siri on my iPhone,
 but when the cooker extractor fan is on and you're a few metres away, barking at your phone to set a timer whilst trying
