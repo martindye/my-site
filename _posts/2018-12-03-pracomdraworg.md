@@ -1,10 +1,15 @@
 ---
 title:  "Adjustable Drawer Organiser by Practical Comfort"
+brand: "Practical Comfort"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GN44WR8&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 tags: [draw organisaer, cutlery organiser, metal]
 author: Martin Dye
 description: "Adjustable Drawer Organiser by Practical Comfort Review"
 categories: [Homeware]
 rating: 5
+price: "32.30"
+sku: "Not Available"
+mpn: "PC-MDO10M"
 ---
 
 The time had come to tidy up my kitchen draw, which had been a mess for 4 years. A tidy kitchen draw reflects a tidy mind.
