@@ -1,10 +1,15 @@
 ---
 title:  "Vivienne Westwood Perfume Boudoir Eau De Parfum EDP Spray 50 ml"
+brand: "Vivienne Westwood"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000VOLD5Q&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
 description: "Vivienne Westwood Boudoir EDP Spray 50 ml Review perfume"
 rating: 4
+price: "30.00"
+sku: "Not Available"
+mpn: "122164"
 ---
 
 A nice, refined, powdery smell, not long lasting on me, the scent itself is lovely.
