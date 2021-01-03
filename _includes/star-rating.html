@@ -48,11 +48,11 @@
     "inLanguage":"en",
     "itemReviewed": {
         "@type":"Product",
-        "name": "{{page.title}}",{% if page.brand != null %}
+        "name": "{{page.title}}",
         "description": "{{page.description}}",
         "sku": "{{page.sku}}",{% if page.isbn != null %}
         "isbn": "{{page.isbn}}",{% endif %}{% if page.mpn != null %}
-        "mpn": "{{page.mpn}}",{% endif %}
+        "mpn": "{{page.mpn}}",{% endif %}{% if page.brand != null %}
         "brand": "{{page.brand}}",{% endif %}{% if page.thumbnailurl != null %}
         "image": "{{page.thumbnailurl}}",{% endif %}
         "review" : {
