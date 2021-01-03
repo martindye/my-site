@@ -1,11 +1,16 @@
 ---
 title:  "Original Toblerone Bundle Large Bars, 500g"
+brand: "Toblerone"
+thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GCJ1VCT&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 date:   2018-12-01 0314 +0000
 categories: [Chocolates]
 tags: [chocolate food]
 author: Doina Fatu & Martin Dye
 description: "Toblerone Bundle Large Bars, 500g Review"
 rating: 4
+price: "14.72"
+sku: "4063006"
+isbn: "Not Available"
 ---
 
 This is a selection pack of several different Toblerone bars, as shown below:
