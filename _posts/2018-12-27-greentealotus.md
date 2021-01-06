@@ -5,7 +5,7 @@ thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B
 categories: [Perfume]
 tags: [perfume scent]
 author: Doina Fatu
-description: "Green Tea by Arden is an affordable everyday perfume with a clean, citrucy smell and it's worth it as you can reapply, the bottle is big enough. Much better choice than other perfumes or eau de toilette that you can't wear as they are sickly sweet or they have a heavy weird scent."
+description: "Green Tea by Arden is an affordable everyday perfume with a clean, citrucy smell and it's worth it as you can reapply, the bottle is big enough."
 rating: 4
 price: "19.01"
 sku: "Not Available"
