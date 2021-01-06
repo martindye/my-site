@@ -4,14 +4,13 @@ brand: "Bormioli Rocco"
 thumbnailurl: "/assets/mousseauchocolat.jpg"
 tags: [amazon echo]
 author: Doina Fatu
-description: "Really nice shape and design. They look fabulous when loaded even with desserts that don't look so elegant when seated on a plate, such as apple crumble."
+description: "They look fabulous when loaded even with desserts that don't look so elegant when seated on a plate, such as apple crumble."
 categories: [Homeware]
 rating: 5
 price: "18.99"
 sku: "Not Available"
 mpn: "BO-340750"
 ---
-
 
 Really nice shape and design. They look fabulous when loaded even with desserts that don't look so elegant when seated on a plate, such as apple crumble.
 
