@@ -4,7 +4,7 @@ brand: "Zyliss"
 thumbnailurl: "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006MST90G&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 tags: [garlic press,garlic crusher]
 author: Martin Dye
-description: "I would say that you do need to use some force with this one, especially if you are crushing two cloves of garlic at once. If you can't squeeze firmly enough, a press with longer handles may be more effective."
+description: "I would say that you do need to use some force with this one, especially if you are crushing two cloves of garlic at once."
 categories: [Homeware]
 rating: 4.5
 price: "15.49"
