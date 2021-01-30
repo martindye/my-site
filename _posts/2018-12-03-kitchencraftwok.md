@@ -1,10 +1,15 @@
 ---
 title:  "KitchenCraft Master Class Professional Large Non Stick Carbon Steel Wok, 35.5 cm"
+brand: "KitchenCraft"
+thumbnailurl: "http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004VQXNJY&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=codemartin04-21&language=en_GB"
 tags: [wok, non-stick, induction]
 author: Martin Dye
 description: "KitchenCraft Master Class Professional Large Non Stick Carbon Steel Wok, 35.5 cm Review"
 categories: [Homeware]
 rating: 4
+price: "36.89"
+sku: "B004VQXNJY"
+mpn: "MCCWOK3"
 ---
 
 I have destroyed 1 x wok and 1 x non-stick frying pan previously, and rather than cooking up delicious dishes containing bits
